@@ -6,9 +6,9 @@ A new Flutter project.
 
 <p>
 
-<img src="assets/caps/imgone.png" alt="drawing" width="200"/> 
+<img src="assets/caps/imgone.png" alt="drawing" width="300"/>
 
-<img src="assets/caps/imgtwo.png" alt="drawing" width="200"/>
+<img src="assets/caps/imgtwo.png" alt="drawing" width="300"/>
 
 ## Getting Started
 
